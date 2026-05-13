@@ -102,3 +102,4 @@
 /home/algrdo/RiderProjects/ClinicaAPI/ClinicaAPI/obj/Debug/net8.0/ClinicaAPI.pdb
 /home/algrdo/RiderProjects/ClinicaAPI/ClinicaAPI/obj/Debug/net8.0/ClinicaAPI.genruntimeconfig.cache
 /home/algrdo/RiderProjects/ClinicaAPI/ClinicaAPI/obj/Debug/net8.0/ref/ClinicaAPI.dll
+/home/algrdo/RiderProjects/ClinicaAPI/ClinicaAPI/obj/Debug/net8.0/ClinicaAPI.sourcelink.json
